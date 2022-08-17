@@ -1,6 +1,5 @@
 #CPSC 115L Project 1 - Python WordsAnalysis
-#Focus on Strings and Lists and i/o
-#Due 10-14-2020 11:59 pm
+#Practising strings and lists and i/o in python
 #Author: Yves Semana Gisubizo(2024)
 
 
