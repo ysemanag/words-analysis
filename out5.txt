@@ -1,0 +1,37 @@
+Python 3.8.5 (v3.8.5:580fbb018f, Jul 20 2020, 12:11:27) 
+[Clang 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+========== RESTART: /Users/yves_semg/Desktop/Project 1/wordanalysis.py =========
+
+
+In the official list of 113,809 crosswords,
+
+56613 words use 'a'.
+16305 words use 'b'.
+30466 words use 'c'.
+30648 words use 'd'.
+76168 words use 'e'.
+11277 words use 'f'.
+24979 words use 'g'.
+19096 words use 'h'.
+60314 words use 'i'.
+1747 words use 'j'.
+8978 words use 'k'.
+40133 words use 'l'.
+22474 words use 'm'.
+49682 words use 'n'.
+44657 words use 'o'.
+22969 words use 'p'.
+1632 words use 'q'.
+54901 words use 'r'.
+64803 words use 's'.
+47279 words use 't'.
+28875 words use 'u'.
+8892 words use 'v'.
+8268 words use 'w'.
+2691 words use 'x'.
+13141 words use 'y'.
+3451 words use 'z'.
+and e is the most frequently-used first letter.
+>>> 

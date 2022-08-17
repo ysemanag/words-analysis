@@ -1,0 +1,74 @@
+Python 3.8.5 (v3.8.5:580fbb018f, Jul 20 2020, 12:11:27) 
+[Clang 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+========== RESTART: /Users/yves_semg/Desktop/Project 1/wordanalysis.py =========
+counterdemonstrations
+hyperaggressivenesses
+microminiaturizations
+
+In the official list of 113,809 crosswords, there are 91 palindromes.
+The shortest palindrome is yay 
+The longest palindrome is deified
+
+In the official list of 113,809 crosswords, there are 37641 words that do not have 'e'.
+The shortest such word is zymurgy and the longest such word is microminiaturizations
+
+6557 words begin with 'a'.
+6847 words begin with 'b'.
+10384 words begin with 'c'.
+6435 words begin with 'd'.
+4363 words begin with 'e'.
+4936 words begin with 'f'.
+3949 words begin with 'g'.
+4079 words begin with 'h'.
+4012 words begin with 'i'.
+1105 words begin with 'j'.
+1311 words begin with 'k'.
+3709 words begin with 'l'.
+6269 words begin with 'm'.
+2207 words begin with 'n'.
+3977 words begin with 'o'.
+8692 words begin with 'p'.
+567 words begin with 'q'.
+7140 words begin with 'r'.
+12590 words begin with 's'.
+5950 words begin with 't'.
+2933 words begin with 'u'.
+1931 words begin with 'v'.
+2926 words begin with 'w'.
+81 words begin with 'x'.
+437 words begin with 'y'.
+422 words begin with 'z'.
+and s is the most frequently-used first letter.
+
+In the official list of 113,809 crosswords,
+
+56613 words use 'a'.
+16305 words use 'b'.
+30466 words use 'c'.
+30648 words use 'd'.
+76168 words use 'e'.
+11277 words use 'f'.
+24979 words use 'g'.
+19096 words use 'h'.
+60314 words use 'i'.
+1747 words use 'j'.
+8978 words use 'k'.
+40133 words use 'l'.
+22474 words use 'm'.
+49682 words use 'n'.
+44657 words use 'o'.
+22969 words use 'p'.
+1632 words use 'q'.
+54901 words use 'r'.
+64803 words use 's'.
+47279 words use 't'.
+28875 words use 'u'.
+8892 words use 'v'.
+8268 words use 'w'.
+2691 words use 'x'.
+13141 words use 'y'.
+3451 words use 'z'.
+and e is the most frequently-used first letter.
+>>> 

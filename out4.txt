@@ -1,0 +1,35 @@
+Python 3.8.5 (v3.8.5:580fbb018f, Jul 20 2020, 12:11:27) 
+[Clang 6.0 (clang-600.0.57)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> 
+
+In the official list of 113,809 crosswords,
+
+6557 words begin with 'a'.
+6847 words begin with 'b'.
+10384 words begin with 'c'.
+6435 words begin with 'd'.
+4363 words begin with 'e'.
+4936 words begin with 'f'.
+3949 words begin with 'g'.
+4079 words begin with 'h'.
+4012 words begin with 'i'.
+1105 words begin with 'j'.
+1311 words begin with 'k'.
+3709 words begin with 'l'.
+6269 words begin with 'm'.
+2207 words begin with 'n'.
+3977 words begin with 'o'.
+8692 words begin with 'p'.
+567 words begin with 'q'.
+7140 words begin with 'r'.
+12590 words begin with 's'.
+5950 words begin with 't'.
+2933 words begin with 'u'.
+1931 words begin with 'v'.
+2926 words begin with 'w'.
+81 words begin with 'x'.
+437 words begin with 'y'.
+422 words begin with 'z'.
+and s is the most frequently-used first letter.
+>>> 
