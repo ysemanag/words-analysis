@@ -1,18 +1,19 @@
-#CPSC 115L Project 1 - Python WordsAnalysis
-#Practising strings and lists and i/o in python
-#Author: Yves Semana Gisubizo(2024)
+#Program - Python WordsAnalysis
+#Practising strings, lists and I/O in python
+#Author: Yves Semana Gisubizo
+#Version 1.0
 
 
-#accessing the files
-
-infile= open("crosswords.txt","r") #open() is an inbuilt function to open  infile file and "r" means only reading 
+#Accessing the files
+infile= open("crosswords.txt","r") #using open() inbuilt function to open file and "r" for only reading 
 words_list=[]
 
 def isPalindrome(w):
-    reverse_w=''
+    #Checking if the word is palindrome
+    reverse_w='' #creating a new empty string to store the reversed word
     length=len(w)
     while length>0:
-        reverse_w=reverse_w + w[length-1]
+        reverse_w=reverse_w + w[length-1] #inserting the word into new string in reverse order
         length=length-1
     if reverse_w==w:
         return True            
